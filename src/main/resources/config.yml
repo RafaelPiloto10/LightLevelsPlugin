@@ -1,0 +1,5 @@
+error-no-toggle: "&cProvide either the see or hide argument to use this command!"
+default-level: 7 # The default light level to check - can be passed as a parameter when using the command
+success-see: "&aSuccessfully displayed low light level blocks with armor stands"
+success-hide: "&aSuccessfully removed armor stands"
+see-no-low-light: "&cNo blocks in this radius are below the threshold!"

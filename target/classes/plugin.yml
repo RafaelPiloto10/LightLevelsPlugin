@@ -1,0 +1,11 @@
+name: LightLevels
+version: 1.0-SNAPSHOT
+main: me.rafaelpiloto10.lightlevels.LightLevels
+api-version: 1.13
+description: See the surrounding light levels for each block and toggle highlighting features
+website: https://rafaelpiloto10.herokuapp.com
+author: Rafael Piloto
+
+commands:
+  lightlevels:
+    description: See or hide the blocks that can spawn mobs

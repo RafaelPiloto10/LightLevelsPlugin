@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LightLevelsPlugin:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft Spigot Server/plugins</output-path>
+    <root id="archive" name="LightLevelsPlugin.jar">
+      <element id="module-output" name="LightLevelsPlugin" />
+    </root>
+  </artifact>
+</component>
